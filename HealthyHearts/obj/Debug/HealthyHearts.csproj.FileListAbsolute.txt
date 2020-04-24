@@ -1,0 +1,6 @@
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\bin\Debug\HealthyHearts.exe.config
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\bin\Debug\HealthyHearts.exe
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\bin\Debug\HealthyHearts.pdb
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\obj\Debug\HealthyHearts.csproj.CoreCompileInputs.cache
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\obj\Debug\HealthyHearts.exe
+C:\Users\repub\Documents\Repos\NetC\HealthyHearts\obj\Debug\HealthyHearts.pdb
