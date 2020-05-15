@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinylRecordManager", "VinylRecordManager.csproj", "{CFAF1AAB-5D27-4D5A-AF29-9B40EF494049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinylRecordsManager.Models", "..\VinylRecordsManager.Models\VinylRecordsManager.Models.csproj", "{941320EC-6874-42A3-A920-5C6DDE136C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinylRecordsManager.Data", "..\VinylRecordsManager.Data\VinylRecordsManager.Data.csproj", "{F45616F2-8591-4C85-B5D4-814929A8BB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinylRecordsManager.View", "..\VinylRecordsManager.View\VinylRecordsManager.View.csproj", "{AEB2D863-FFC1-48D8-AB0C-2FEBBFDC655D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinylRecordsManager.Controllers", "..\VinylRecordsManager.Controllers\VinylRecordsManager.Controllers.csproj", "{99CFA9E1-969F-401B-9D1E-B0D0F7733DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAF1AAB-5D27-4D5A-AF29-9B40EF494049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAF1AAB-5D27-4D5A-AF29-9B40EF494049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAF1AAB-5D27-4D5A-AF29-9B40EF494049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAF1AAB-5D27-4D5A-AF29-9B40EF494049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941320EC-6874-42A3-A920-5C6DDE136C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941320EC-6874-42A3-A920-5C6DDE136C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941320EC-6874-42A3-A920-5C6DDE136C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941320EC-6874-42A3-A920-5C6DDE136C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45616F2-8591-4C85-B5D4-814929A8BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45616F2-8591-4C85-B5D4-814929A8BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45616F2-8591-4C85-B5D4-814929A8BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45616F2-8591-4C85-B5D4-814929A8BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB2D863-FFC1-48D8-AB0C-2FEBBFDC655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB2D863-FFC1-48D8-AB0C-2FEBBFDC655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB2D863-FFC1-48D8-AB0C-2FEBBFDC655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB2D863-FFC1-48D8-AB0C-2FEBBFDC655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CFA9E1-969F-401B-9D1E-B0D0F7733DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CFA9E1-969F-401B-9D1E-B0D0F7733DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CFA9E1-969F-401B-9D1E-B0D0F7733DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CFA9E1-969F-401B-9D1E-B0D0F7733DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25397A82-6F14-4972-A8D9-F9A4FC554078}
+	EndGlobalSection
+EndGlobal
