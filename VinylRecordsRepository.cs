@@ -15,91 +15,104 @@ namespace VinylRecordsManager.Data
     {
         List<VinylRecords> masterList = new List<VinylRecords>();
         VinylRecords vinyl = new VinylRecords();
-        VinylRecordsView userEnteredId = new VinylRecordsView();
         //List here where everything needs to save.
-        public void Create(VinylRecords record)
+        public VinylRecords Create(VinylRecords record)
         {
             masterList.Add(record);
+            return record;
         }
 
-        public void ReadAll()
+        public List<VinylRecords> ReadAll()
         {
-            Console.WriteLine(string.Join<VinylRecords>("\n", masterList));
+            return masterList;
         }
 
-        public List<VinylRecords> ReadById()
+        public List<VinylRecords> ReadById(int id)
         {
             while (true)
             {
-                int id = userEnteredId.SearchVinylRecords();
                 List<VinylRecords> individualList = new List<VinylRecords>();
-                var x = masterList.Any(C => C.Id == id);
 
-                if (x == true)
+                foreach (VinylRecords idSearch in masterList)
                 {
-                    int index = masterList.FindIndex(r=> r.Id.Equals(id));
-                    individualList = masterList.GetRange(index, 1);
-                    foreach (VinylRecords vinyl in individualList)
-                    return individualList;
-                }
+                    if (masterList.ToString().Contains(id.ToString()))
+                    {
+                        int index = masterList.FindIndex(delegate (VinylRecords recordSearch)
+                        {
+                            return recordSearch.Id.Equals(id);
+                        });
+                        individualList = masterList.GetRange(index, 1);
+                            return individualList;
+                    }
 
-                else
-                {
-                    Console.WriteLine("\nSelected Id does not exist. Please try again.");
+                    else
+                    {
+                        Console.WriteLine("\nSelected Id does not exist. Please try again.");
+                        return individualList;
+                    }
                 }
             }
         }
 
-        public void Update()
+        public void Update(int id, VinylRecords record)
         {
-
             while (true)
             {
-                int id = userEnteredId.SearchVinylRecords();
-                var x = masterList.Any(C => C.Id == id);
-
-                if (x == true)
+                foreach (VinylRecords idSearch in masterList)
                 {
-                    int index = masterList.FindIndex(r => r.Id.Equals(id));
-                    masterList.RemoveAt(index);
-
-                    VinylRecords record = new VinylRecords();
-                    record = userEnteredId.EditVinylRecordsInfo();
-                    masterList.Add(record);
-                    break;
-                }
-
-                else
-                {
-                    Console.WriteLine("\nSelected Id does not exist. Please try again.");
-                }
-            }
-        }
-
-        public void Delete(int id)
-        {
-            bool confirm = userEnteredId.ConfirmRemoveDvd();
-
-            if (confirm == true)
-            {
-
-                var x = masterList.Any(C => C.Id == id);
-
-                while (true)
-                {
-                    if (x == true)
+                    if (masterList.ToString().Contains(id.ToString()))
                     {
-                        int index = masterList.FindIndex(r => r.Id.Equals(id));
+                        int index = masterList.FindIndex(delegate (VinylRecords recordSearch)
+                        {
+                            return recordSearch.Id.Equals(id);
+                        });
+
                         masterList.RemoveAt(index);
-                        Console.WriteLine("\nRecord Removed");
+                        masterList.Add(record);
                         break;
                     }
 
                     else
                     {
-                        Console.WriteLine("\nSelected Id does not exist.");
+                        Console.WriteLine("\nSelected Id does not exist. Please try again.");
                         break;
                     }
+                }
+
+                break;
+
+            }
+        }
+
+        public void Delete(int id, bool confirm)
+        {
+
+            if (confirm == true)
+            {
+                while (true)
+                {
+                    foreach (VinylRecords idSearch in masterList)
+                    {
+                        if (masterList.ToString().Contains(id.ToString()))
+                        {
+                            int index = masterList.FindIndex(delegate (VinylRecords recordSearch)
+                            {
+                                return recordSearch.Id.Equals(id);
+                            });
+
+                            masterList.RemoveAt(index);
+                            Console.WriteLine("\nRecord Removed");
+                            break;
+                        }
+
+                        else
+                        {
+                            Console.WriteLine("\nSelected Id does not exist.");
+                            break;
+                        }
+                    }
+
+                    break;
                 }
             }
         }

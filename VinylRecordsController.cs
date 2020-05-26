@@ -12,78 +12,77 @@ namespace VinylRecordsManager.Controllers
 {
     public class VinylRecordsController
     {
-        VinylRecordsView currentVinylRecord = new VinylRecordsView();
+        VinylRecordsView vinylView = new VinylRecordsView();
         VinylRecords vinyl;
-        VinylRecordsRepository listCreator = new VinylRecordsRepository();
+        VinylRecordsRepository vinylRepo = new VinylRecordsRepository();
         //instantiate everything here
         public void Run()
         {
             while (true)
             {
                 int start;
-                start = currentVinylRecord.GetMenuChoice();
+                start = vinylView.GetMenuChoice();
 
-                if (start == 1)
+                switch(start)
                 {
-                    CreateVinylRecord();
+                    case 1:
+                        CreateVinylRecord();
+                        continue;
+                    case 2:
+                        DisplayVinylRecords();
+                        continue;
+                    case 3:
+                        SearchVinylRecords();
+                        continue;
+                    case 4:
+                        EditVinylRecord();
+                        continue;
+                    case 5:
+                        RemoveVinylRecord();
+                        continue;
+                    case 6:
+                        break;
                 }
 
-                if (start == 2)
-                {
-                    DisplayVinylRecords();
-                }
+                break;
 
-                if (start == 3)
-                {
-                    SearchVinylRecords();
-                }
-
-                if (start == 4)
-                {
-                    EditVinylRecord();
-                }
-
-                if (start == 5)
-                {
-                    RemoveVinylRecord();
-                }
-
-                if (start == 6)
-                {
-                    break;
-                }
             }
         }
         
         private void CreateVinylRecord()
         {
-            vinyl = currentVinylRecord.GetNewVinylRecordInfo();
+            vinyl = vinylView.GetNewVinylRecordInfo();
 
-            listCreator.Create(vinyl);
+            vinylRepo.Create(vinyl);
         }
 
         private void DisplayVinylRecords()
         {
-            listCreator.ReadAll();
+            List<VinylRecords> displayList = vinylRepo.ReadAll();
+            vinylView.DisplayVinylRecords(displayList);
         }
 
         private void SearchVinylRecords()
         {
             List<VinylRecords> currentList = new List<VinylRecords>();
-            currentList = listCreator.ReadById();
+            int id = vinylView.SearchVinylRecords();
+            currentList = vinylRepo.ReadById(id);
 
-            currentVinylRecord.DisplayVinylRecord(currentList);
+            vinylView.DisplayVinylRecords(currentList);
         }
 
         private void EditVinylRecord()
         {
-            listCreator.Update();
+            int id = vinylView.SearchVinylRecords();
+            vinyl = vinylView.EditVinylRecordsInfo();
+            vinylRepo.Update(id, vinyl);
         }
 
         private void RemoveVinylRecord()
         {
-            int id = currentVinylRecord.SearchVinylRecords();
-            listCreator.Delete(id);
+            int id = vinylView.SearchVinylRecords();
+            bool confirm = vinylView.ConfirmRemoveDvd();
+            vinylRepo.Delete(id, confirm);
         }
     }
 }

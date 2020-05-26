@@ -103,7 +103,7 @@ namespace VinylRecordsManager.View
             return record;
         }
 
-        public void DisplayVinylRecord(List<VinylRecords> list)
+        public void DisplayVinylRecords(List<VinylRecords> list)
         {
             Console.WriteLine(string.Join<VinylRecords>("\n", list));
         }
