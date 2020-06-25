@@ -312,16 +312,12 @@ namespace LINQ
         /// </summary>
         static void Exercise11()
         {
-            var test = DataLoader.NumbersC.Where(n => n % 2 == 1);
-            int loopCounter = 0;
+            var test = DataLoader.NumbersC.Where(n => n % 2 == 1).Take(3);
+            
 
             foreach (var num in test)
             {
-                loopCounter++;
-                if (loopCounter <= 3)
-                {
-                    Console.Write($"{num}, ");
-                }
+                Console.Write($"{num}, ");                
             }
         }
 
@@ -331,10 +327,13 @@ namespace LINQ
         static void Exercise12()
         {
             var test = DataLoader.NumbersB;
-            for (int i = 3; i < test.Length; i++)
+            var test1 = test.Skip(3);
+
+            foreach (var num in test1)
             {
-                Console.Write($"{test[i]}, ");
+                Console.Write($"{num}, ");
             }
+           
         }
 
         /// <summary>
@@ -365,16 +364,11 @@ namespace LINQ
         static void Exercise14()
         {
             var test = DataLoader.NumbersC;
-            for (int i = 0; i < test.Length; i++)
+            var test1 = test.TakeWhile(t => t < 6);
+            
+           foreach (var num in test1)
             {
-                if (test[i] < 6)
-                {
-                    Console.Write($"{test[i]}, ");
-                }
-                else
-                {
-                    break;
-                }
+                Console.Write($"{num}, ");
             }
         }
 
@@ -384,23 +378,11 @@ namespace LINQ
         static void Exercise15()
         {
             var test = DataLoader.NumbersC;
-            int i = 0;
+            var test1 = test.SkipWhile(t => t % 3 != 0).Skip(1);
 
-            while (i < test.Length)
+            foreach(var num in test1)
             {
-                if (test[i] % 3 == 0)
-                {
-                    while (i < test.Length - 1)
-                    {
-                        i++;
-                        Console.Write($"{test[i]}, ");
-                    }
-                }
-                else
-                {
-                    i++;
-                }
-
+                Console.Write($"{num}, ");
             }
         }
 
