@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vending Machine</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css"
+              rel="stylesheet">
+    </head>
+    <body>
+      <style>
+        .treat {
+          min-width: 250px;
+          min-height: 250px;
+          margin-bottom: 10px;
+        }
+        .addButtons {
+          margin-top: 40px;
+        }
+        .totalBox {
+          margin-bottom: 10px;
+        }
+        textarea {
+          resize: none;
+          margin-bottom: 10px;
+        }
+        #makePurchase {
+          margin-bottom: 14px;
+        }
+      </style>
+        <div class ="text-center">
+          <h1 class="center">Vending Machine</h1>
+          <hr/>
+
+          <div class="col-md-3">
+            <button class="btn btn-default treat" id="snickers" value="Snickers">
+              Snickers
+            </button>
+          </div>
+
+          <div class="col-md-3">
+            <button class="btn btn-default treat" id="mandms" value="M&Ms">
+              M&Ms
+            </button>
+          </div>
+
+          <div class="col-md-3">
+            <button class="btn btn-default treat" id="pringles">
+              Pringles
+            </button>
+          </div>
+
+          <div class="col-md-3 totalBox">
+            <p style="font-size: 40px">Total $ In<p>
+            <input type = "text"
+                   id = "total"
+                   value = ""
+                   autocomplete="off"
+                   disabled = "disabled"/>
+            <div class="col-md-6">
+              <button class="btn btn-default addButtons" id="adddolar">
+                Add Dolar
+              </button>
+            </div>
+            <div class="col-md-6">
+              <button class="btn btn-default addButtons" id="addquarter">
+                Add Quarter
+              </button>
+            </div>
+            <div class="col-md-6">
+              <button class="btn btn-default addButtons" id="adddime">
+                Add Dime
+              </button>
+            </div>
+            <div class="col-md-6">
+              <button class="btn btn-default addButtons" id="addnickel">
+                Add Nickel
+              </button>
+            </div>
+        </div>
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="reeses">
+            Reese's
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="pretzels">
+            Pretzels
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="twinkies">
+            Twinkies
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <hr/>
+          <p style="font-size: 40px">Messages<p>
+            <textarea
+                   id = "messageDisplay"
+                   class="col-md-12"
+                   disabled = "disabled"></textarea>
+          <label>Item: </label>
+          <input type = "text"
+                 id = "itemDisplay"
+                 class="col-md-10 pull-right"
+                 autocomplete="off"
+                 disabled = "disabled"/>
+          <div class="col-md-12">
+            <button class="btn btn-default" id="makePurchase">
+             Make Purchase
+            </button>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="doritos">
+            Doritos
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="almondjoy">
+            Almond Joy
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <button class="btn btn-default treat" id="trident">
+            Trident
+          </button>
+        </div>
+
+        <div class="col-md-3">
+          <hr/>
+          <p style="font-size: 40px">Change<p>
+            <textarea
+                   id = "changeDisplay"
+                   class="col-md-8 col-md-offset-2"
+                   disabled = "disabled"></textarea>
+          <div class="col-md-12">
+            <button class="btn btn-default" id="changeReturn">
+             Change Return
+            </button>
+          </div>
+        </div>
+
+      </div>
+        <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/contactList.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>
