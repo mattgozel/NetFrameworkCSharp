@@ -1,7 +1,0 @@
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\obj\Debug\SummativeSums.csprojAssemblyReference.cache
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\obj\Debug\SummativeSums.csproj.CoreCompileInputs.cache
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\bin\Debug\SummativeSums.exe.config
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\bin\Debug\SummativeSums.exe
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\bin\Debug\SummativeSums.pdb
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\obj\Debug\SummativeSums.exe
-C:\Users\repub\Documents\Repos\NetC\SummativeSums\obj\Debug\SummativeSums.pdb
