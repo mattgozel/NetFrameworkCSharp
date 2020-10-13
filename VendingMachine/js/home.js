@@ -79,7 +79,68 @@ $(document).ready(function() {
     const item = document.querySelector('#itemDisplay');
     item.value = display.value;
       });
+
+  $('#makePurchase').on('click', function(){
+    purchaseItem();
+      });
+
+  $('#changeReturn').on('click', function(){
+    $('#messageDisplay').val('');
+    $('#itemDisplay').val('');
+    $('#changeDisplay').empty();
+      });
 });
+
+function purchaseItem() {
+
+  $.ajax({
+    type: 'GET',
+    url: 'http://localhost:8080/money/' + $('#total').val() + '/item/' + $('#itemDisplay').val(),
+    success: function(changeArray) {
+
+        var total = document.querySelector('#total');
+        total.value = '';
+        var row = '';
+
+        if(changeArray.quarters != '0')
+        {var quarters = changeArray.quarters;
+        row += quarters + ' Quarter(s)';};
+
+        if(changeArray.dimes != '0')
+        {var dimes = changeArray.dimes;
+        row += dimes + ' Dime(s)';};
+
+        if(changeArray.nickels != '0')
+        {var nickels = changeArray.nickels;
+        row += nickels + ' Nickel(s)';};
+
+        var chnageDisplay = document.querySelector('#changeDisplay')
+        changeDisplay.append(row);
+
+        clearItems();
+        var messageDisplay = document.querySelector('#messageDisplay');
+        messageDisplay.value = 'Thank you!!!';
+        loadItems();
+
+    },
+    error: function(response) {
+      var displayMessage = response.responseJSON.message;
+      $('#messageDisplay').val(displayMessage);
+    }
+  });
+};
+
+function clearItems() {
+  $('#itemDiv1').empty();
+  $('#itemDiv2').empty();
+  $('#itemDiv3').empty();
+  $('#itemDiv4').empty();
+  $('#itemDiv5').empty();
+  $('#itemDiv6').empty();
+  $('#itemDiv7').empty();
+  $('#itemDiv8').empty();
+  $('#itemDiv9').empty();
+};
 
 function loadItems() {
   var itemDiv1 = $('#itemDiv1')
