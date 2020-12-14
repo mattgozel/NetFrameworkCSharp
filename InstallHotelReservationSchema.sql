@@ -1,3 +1,11 @@
+use master
+go
+
+alter database HotelReservationSchema set single_user with rollback immediate;
+go
+
+drop database HotelReservationSchema;
+
 create database HotelReservationSchema
 go
 
