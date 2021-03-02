@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.exe
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.deps.json
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.runtimeconfig.json
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.runtimeconfig.dev.json
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.dll
+C:\Users\repub\source\repos\RandomAcrsOfKindness\bin\Release\netcoreapp3.1\RandomAcrsOfKindness.pdb
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.AssemblyInfo.cs
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.dll
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.pdb
+C:\Users\repub\source\repos\RandomAcrsOfKindness\obj\Release\netcoreapp3.1\RandomAcrsOfKindness.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.dll
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.pdb
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csproj.CopyComplete
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Users\repub\source\repos\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb

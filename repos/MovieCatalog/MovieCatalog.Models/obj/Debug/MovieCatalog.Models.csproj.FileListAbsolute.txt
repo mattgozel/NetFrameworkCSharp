@@ -1,0 +1,6 @@
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\bin\Debug\MovieCatalog.Models.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\bin\Debug\MovieCatalog.Models.pdb
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\obj\Debug\MovieCatalog.Models.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\obj\Debug\MovieCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\obj\Debug\MovieCatalog.Models.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Models\obj\Debug\MovieCatalog.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.BLL.deps.json
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.BLL.dll
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.BLL.pdb
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.Data.dll
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.Models.dll
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.Data.pdb
+C:\Users\repub\source\repos\SGBank.BLL\bin\Debug\netstandard2.0\SGBank.Models.pdb
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.AssemblyInfo.cs
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.csproj.CopyComplete
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.dll
+C:\Users\repub\source\repos\SGBank.BLL\obj\Debug\netstandard2.0\SGBank.BLL.pdb

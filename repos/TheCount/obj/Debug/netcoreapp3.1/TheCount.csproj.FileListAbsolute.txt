@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.exe
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.deps.json
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.runtimeconfig.json
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.runtimeconfig.dev.json
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.dll
+C:\Users\repub\source\repos\TheCount\bin\Debug\netcoreapp3.1\TheCount.pdb
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.AssemblyInfo.cs
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.dll
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.pdb
+C:\Users\repub\source\repos\TheCount\obj\Debug\netcoreapp3.1\TheCount.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\repub\source\repos\RPGInvenstory\bin\Debug\RPGInvenstory.dll
+C:\Users\repub\source\repos\RPGInvenstory\bin\Debug\RPGInvenstory.pdb
+C:\Users\repub\source\repos\RPGInvenstory\obj\Debug\RPGInventory.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\RPGInvenstory\obj\Debug\RPGInventory.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\RPGInvenstory\obj\Debug\RPGInvenstory.dll
+C:\Users\repub\source\repos\RPGInvenstory\obj\Debug\RPGInvenstory.pdb

@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.exe
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.deps.json
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.runtimeconfig.json
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.runtimeconfig.dev.json
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.dll
+C:\Users\repub\source\repos\MoreBucketsMoreFun\bin\Debug\netcoreapp3.1\MoreBucketsMoreFun.pdb
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.AssemblyInfo.cs
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.dll
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.pdb
+C:\Users\repub\source\repos\MoreBucketsMoreFun\obj\Debug\netcoreapp3.1\MoreBucketsMoreFun.genruntimeconfig.cache

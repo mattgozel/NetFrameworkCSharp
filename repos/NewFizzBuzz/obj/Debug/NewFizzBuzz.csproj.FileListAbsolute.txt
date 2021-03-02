@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\NewFizzBuzz\bin\Debug\NewFizzBuzz.exe.config
+C:\Users\repub\source\repos\NewFizzBuzz\bin\Debug\NewFizzBuzz.exe
+C:\Users\repub\source\repos\NewFizzBuzz\bin\Debug\NewFizzBuzz.pdb
+C:\Users\repub\source\repos\NewFizzBuzz\obj\Debug\NewFizzBuzz.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\NewFizzBuzz\obj\Debug\NewFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\NewFizzBuzz\obj\Debug\NewFizzBuzz.exe
+C:\Users\repub\source\repos\NewFizzBuzz\obj\Debug\NewFizzBuzz.pdb

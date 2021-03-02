@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.exe
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.deps.json
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.json
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.dev.json
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\repub\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfo.cs
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\repub\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.genruntimeconfig.cache

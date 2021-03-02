@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.exe
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.deps.json
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.runtimeconfig.json
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.runtimeconfig.dev.json
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.dll
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\bin\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.pdb
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.AssemblyInfo.cs
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.dll
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.pdb
+C:\Users\repub\source\repos\TwoForAndTenYearsAgo\obj\Debug\netcoreapp3.1\TwoForAndTenYearsAgo.genruntimeconfig.cache

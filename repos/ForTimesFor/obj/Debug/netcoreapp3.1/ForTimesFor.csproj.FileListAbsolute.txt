@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.AssemblyInfo.cs
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.exe
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.deps.json
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.runtimeconfig.json
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.runtimeconfig.dev.json
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.dll
+C:\Users\repub\source\repos\ForTimesFor\bin\Debug\netcoreapp3.1\ForTimesFor.pdb
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.dll
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.pdb
+C:\Users\repub\source\repos\ForTimesFor\obj\Debug\netcoreapp3.1\ForTimesFor.genruntimeconfig.cache

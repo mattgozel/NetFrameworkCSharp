@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\Puzzles\Puzzles\bin\Debug\Puzzles.exe.config
+C:\Users\repub\source\repos\Puzzles\Puzzles\bin\Debug\Puzzles.exe
+C:\Users\repub\source\repos\Puzzles\Puzzles\bin\Debug\Puzzles.pdb
+C:\Users\repub\source\repos\Puzzles\Puzzles\obj\Debug\Puzzles.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\Puzzles\Puzzles\obj\Debug\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\Puzzles\Puzzles\obj\Debug\Puzzles.exe
+C:\Users\repub\source\repos\Puzzles\Puzzles\obj\Debug\Puzzles.pdb

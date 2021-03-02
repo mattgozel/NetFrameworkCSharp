@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Controllers.dll
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Controllers.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Data.dll
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Models.dll
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.View.dll
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Data.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.Models.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\bin\Debug\VinylRecordsManager.View.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\obj\Debug\VinylRecordsManager.Controllers.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\obj\Debug\VinylRecordsManager.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\obj\Debug\VinylRecordsManager.Controllers.csproj.CopyComplete
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\obj\Debug\VinylRecordsManager.Controllers.dll
+C:\Users\repub\source\repos\VinylRecordsManager.Controllers\obj\Debug\VinylRecordsManager.Controllers.pdb

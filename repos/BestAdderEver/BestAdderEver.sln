@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestAdderEver", "BestAdderEver.csproj", "{C9345284-4231-4365-801C-7CE90883F1F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9345284-4231-4365-801C-7CE90883F1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9345284-4231-4365-801C-7CE90883F1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9345284-4231-4365-801C-7CE90883F1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9345284-4231-4365-801C-7CE90883F1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561B6E8D-7302-45FF-A279-43DF4BFA0644}
+	EndGlobalSection
+EndGlobal

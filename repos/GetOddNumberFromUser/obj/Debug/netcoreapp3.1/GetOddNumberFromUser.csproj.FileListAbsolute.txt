@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.AssemblyInfo.cs
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.exe
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.deps.json
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.runtimeconfig.json
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.runtimeconfig.dev.json
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.dll
+C:\Users\repub\source\repos\GetOddNumberFromUser\bin\Debug\netcoreapp3.1\GetOddNumberFromUser.pdb
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.dll
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.pdb
+C:\Users\repub\source\repos\GetOddNumberFromUser\obj\Debug\netcoreapp3.1\GetOddNumberFromUser.genruntimeconfig.cache

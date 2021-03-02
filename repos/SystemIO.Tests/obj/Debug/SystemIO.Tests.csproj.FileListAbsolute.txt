@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\SystemIO.Tests.dll
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\SystemIO.Tests.pdb
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\nunit.framework.dll
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\StudentManagement.exe
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\StudentManagement.pdb
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\StudentManagement.exe.config
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\repub\source\repos\SystemIO.Tests\bin\Debug\nunit.framework.xml
+C:\Users\repub\source\repos\SystemIO.Tests\obj\Debug\SystemIO.Tests.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\SystemIO.Tests\obj\Debug\SystemIO.Tests.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\SystemIO.Tests\obj\Debug\SystemIO.Tests.csproj.CopyComplete
+C:\Users\repub\source\repos\SystemIO.Tests\obj\Debug\SystemIO.Tests.dll
+C:\Users\repub\source\repos\SystemIO.Tests\obj\Debug\SystemIO.Tests.pdb

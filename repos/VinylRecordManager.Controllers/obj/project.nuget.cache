@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4b6hvCE3sPTlul0Ba39s6kIw5AqPTXH09TYgBVmOEdev9ohsEdvFZ8Jgu2iVE/n39Mq3uWs9Ffdrql7Et87EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\repub\\source\\repos\\VinylRecordManager.Controllers\\VinylRecordManager.Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\repub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\repub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

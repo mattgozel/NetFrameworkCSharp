@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.exe
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.deps.json
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.runtimeconfig.json
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.runtimeconfig.dev.json
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.dll
+C:\Users\repub\source\repos\DebuggingPractice\bin\Debug\netcoreapp3.1\DebuggingPractice.pdb
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.AssemblyInfo.cs
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.dll
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.pdb
+C:\Users\repub\source\repos\DebuggingPractice\obj\Debug\netcoreapp3.1\DebuggingPractice.genruntimeconfig.cache

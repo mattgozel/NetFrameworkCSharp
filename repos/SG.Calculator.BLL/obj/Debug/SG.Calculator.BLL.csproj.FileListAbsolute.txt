@@ -1,0 +1,6 @@
+C:\Users\repub\source\repos\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.dll
+C:\Users\repub\source\repos\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.pdb
+C:\Users\repub\source\repos\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.dll
+C:\Users\repub\source\repos\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.pdb

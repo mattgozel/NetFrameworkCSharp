@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.exe
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.deps.json
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.runtimeconfig.json
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.runtimeconfig.dev.json
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.dll
+C:\Users\repub\source\repos\PassingTheTuringTest\bin\Debug\netcoreapp3.1\PassingTheTuringTest.pdb
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.AssemblyInfo.cs
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.dll
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.pdb
+C:\Users\repub\source\repos\PassingTheTuringTest\obj\Debug\netcoreapp3.1\PassingTheTuringTest.genruntimeconfig.cache

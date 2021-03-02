@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.exe
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.deps.json
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.runtimeconfig.json
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.runtimeconfig.dev.json
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.dll
+C:\Users\repub\source\repos\DifferentKettleOfFish\bin\Debug\netcoreapp3.1\DifferentKettleOfFish.pdb
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.AssemblyInfo.cs
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.dll
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.pdb
+C:\Users\repub\source\repos\DifferentKettleOfFish\obj\Debug\netcoreapp3.1\DifferentKettleOfFish.genruntimeconfig.cache

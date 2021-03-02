@@ -1,0 +1,10 @@
+C:\Users\repub\source\repos\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe.config
+C:\Users\repub\source\repos\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe
+C:\Users\repub\source\repos\GuessingGame.UI\bin\Debug\GuessingGame.UI.pdb
+C:\Users\repub\source\repos\GuessingGame.UI\bin\Debug\GuessingGame.BLL.dll
+C:\Users\repub\source\repos\GuessingGame.UI\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\repub\source\repos\GuessingGame.UI\obj\Debug\GuessingGame.UI.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\GuessingGame.UI\obj\Debug\GuessingGame.UI.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\GuessingGame.UI\obj\Debug\GuessingGame.UI.csproj.CopyComplete
+C:\Users\repub\source\repos\GuessingGame.UI\obj\Debug\GuessingGame.UI.exe
+C:\Users\repub\source\repos\GuessingGame.UI\obj\Debug\GuessingGame.UI.pdb

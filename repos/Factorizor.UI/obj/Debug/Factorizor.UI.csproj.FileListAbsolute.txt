@@ -1,0 +1,10 @@
+C:\Users\repub\source\repos\Factorizor.UI\bin\Debug\Factorizor.UI.exe.config
+C:\Users\repub\source\repos\Factorizor.UI\bin\Debug\Factorizor.UI.exe
+C:\Users\repub\source\repos\Factorizor.UI\bin\Debug\Factorizor.UI.pdb
+C:\Users\repub\source\repos\Factorizor.UI\bin\Debug\Factorizor.BLL.dll
+C:\Users\repub\source\repos\Factorizor.UI\bin\Debug\Factorizor.BLL.pdb
+C:\Users\repub\source\repos\Factorizor.UI\obj\Debug\Factorizor.UI.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\Factorizor.UI\obj\Debug\Factorizor.UI.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\Factorizor.UI\obj\Debug\Factorizor.UI.csproj.CopyComplete
+C:\Users\repub\source\repos\Factorizor.UI\obj\Debug\Factorizor.UI.exe
+C:\Users\repub\source\repos\Factorizor.UI\obj\Debug\Factorizor.UI.pdb

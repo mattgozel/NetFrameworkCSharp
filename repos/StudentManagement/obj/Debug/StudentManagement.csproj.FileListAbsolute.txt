@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\repub\source\repos\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\repub\source\repos\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\repub\source\repos\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\repub\source\repos\StudentManagement\obj\Debug\StudentManagement.pdb

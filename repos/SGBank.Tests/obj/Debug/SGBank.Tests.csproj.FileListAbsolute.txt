@@ -1,0 +1,17 @@
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Data1.dll
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Models1.dll
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank1.BLL.dll
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Data1.pdb
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank.Models1.pdb
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\SGBank1.BLL.pdb
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\repub\source\repos\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\repub\source\repos\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+C:\Users\repub\source\repos\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\repub\source\repos\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

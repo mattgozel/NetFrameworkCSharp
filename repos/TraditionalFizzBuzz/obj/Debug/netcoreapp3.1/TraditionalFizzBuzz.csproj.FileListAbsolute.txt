@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.exe
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.deps.json
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.runtimeconfig.json
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.runtimeconfig.dev.json
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.dll
+C:\Users\repub\source\repos\TraditionalFizzBuzz\bin\Debug\netcoreapp3.1\TraditionalFizzBuzz.pdb
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.AssemblyInfo.cs
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.dll
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.pdb
+C:\Users\repub\source\repos\TraditionalFizzBuzz\obj\Debug\netcoreapp3.1\TraditionalFizzBuzz.genruntimeconfig.cache

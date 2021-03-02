@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\MovieRating\bin\Debug\MovieRating.exe.config
+C:\Users\repub\source\repos\MovieRating\bin\Debug\MovieRating.exe
+C:\Users\repub\source\repos\MovieRating\bin\Debug\MovieRating.pdb
+C:\Users\repub\source\repos\MovieRating\obj\Debug\MovieRating.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\MovieRating\obj\Debug\MovieRating.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MovieRating\obj\Debug\MovieRating.exe
+C:\Users\repub\source\repos\MovieRating\obj\Debug\MovieRating.pdb

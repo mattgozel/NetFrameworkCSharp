@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.exe
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.deps.json
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.runtimeconfig.json
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.runtimeconfig.dev.json
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.dll
+C:\Users\repub\source\repos\LazyTeen\bin\Debug\netcoreapp3.1\LazyTeen.pdb
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.AssemblyInfo.cs
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.dll
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.pdb
+C:\Users\repub\source\repos\LazyTeen\obj\Debug\netcoreapp3.1\LazyTeen.genruntimeconfig.cache

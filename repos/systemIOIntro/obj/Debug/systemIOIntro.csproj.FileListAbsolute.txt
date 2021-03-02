@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\systemIOIntro\bin\Debug\systemIOIntro.exe.config
+C:\Users\repub\source\repos\systemIOIntro\bin\Debug\systemIOIntro.exe
+C:\Users\repub\source\repos\systemIOIntro\bin\Debug\systemIOIntro.pdb
+C:\Users\repub\source\repos\systemIOIntro\obj\Debug\systemIOIntro.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\systemIOIntro\obj\Debug\systemIOIntro.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\systemIOIntro\obj\Debug\systemIOIntro.exe
+C:\Users\repub\source\repos\systemIOIntro\obj\Debug\systemIOIntro.pdb

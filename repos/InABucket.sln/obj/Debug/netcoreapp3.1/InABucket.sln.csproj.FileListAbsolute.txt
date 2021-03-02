@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.exe
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.deps.json
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.runtimeconfig.json
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.runtimeconfig.dev.json
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.dll
+C:\Users\repub\source\repos\InABucket.sln\bin\Debug\netcoreapp3.1\InABucket.sln.pdb
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.AssemblyInfo.cs
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.dll
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.pdb
+C:\Users\repub\source\repos\InABucket.sln\obj\Debug\netcoreapp3.1\InABucket.sln.genruntimeconfig.cache

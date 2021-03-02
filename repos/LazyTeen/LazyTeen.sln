@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyTeen", "LazyTeen.csproj", "{230F1DB0-1D55-4B6E-9DAD-38FAA59BC71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230F1DB0-1D55-4B6E-9DAD-38FAA59BC71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230F1DB0-1D55-4B6E-9DAD-38FAA59BC71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230F1DB0-1D55-4B6E-9DAD-38FAA59BC71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230F1DB0-1D55-4B6E-9DAD-38FAA59BC71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {772B2900-06DE-4668-AC35-BB6D4464568A}
+	EndGlobalSection
+EndGlobal

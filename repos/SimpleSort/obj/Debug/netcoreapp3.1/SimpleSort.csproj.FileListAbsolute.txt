@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.AssemblyInfo.cs
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.exe
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.deps.json
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.runtimeconfig.json
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.runtimeconfig.dev.json
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.dll
+C:\Users\repub\source\repos\SimpleSort\bin\Debug\netcoreapp3.1\SimpleSort.pdb
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.dll
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.pdb
+C:\Users\repub\source\repos\SimpleSort\obj\Debug\netcoreapp3.1\SimpleSort.genruntimeconfig.cache

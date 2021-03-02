@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.exe
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.deps.json
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.runtimeconfig.json
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.runtimeconfig.dev.json
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.dll
+C:\Users\repub\source\repos\DoItBetter\bin\Debug\netcoreapp3.1\DoItBetter.pdb
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.AssemblyInfo.cs
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.dll
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.pdb
+C:\Users\repub\source\repos\DoItBetter\obj\Debug\netcoreapp3.1\DoItBetter.genruntimeconfig.cache

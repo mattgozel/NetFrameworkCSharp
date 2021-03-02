@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.exe
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.deps.json
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.runtimeconfig.json
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.runtimeconfig.dev.json
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.dll
+C:\Users\repub\source\repos\StillPosi\bin\Debug\netcoreapp3.1\StillPosi.pdb
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.AssemblyInfo.cs
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.dll
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.pdb
+C:\Users\repub\source\repos\StillPosi\obj\Debug\netcoreapp3.1\StillPosi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.exe
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.deps.json
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.runtimeconfig.json
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.runtimeconfig.dev.json
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.dll
+C:\Users\repub\source\repos\MethodsVideoPractice\bin\Debug\netcoreapp3.1\MethodsVideoPractice.pdb
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.AssemblyInfo.cs
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.dll
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.pdb
+C:\Users\repub\source\repos\MethodsVideoPractice\obj\Debug\netcoreapp3.1\MethodsVideoPractice.genruntimeconfig.cache

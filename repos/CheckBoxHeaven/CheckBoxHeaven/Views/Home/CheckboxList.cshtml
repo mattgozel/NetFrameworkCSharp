@@ -1,0 +1,21 @@
+﻿@model CheckBoxHeaven.Models.CategoryPickerViewModel
+
+@{
+    ViewBag.Title = "CheckboxList";
+}
+
+<h2>CheckboxList</h2>
+
+@using (Html.BeginForm("CheckboxList", "Home", FormMethod.Post))
+{
+    for (int i = 0; i < Model.CategoryCheckboxes.Count; i++)
+    {
+        <p>
+            @Html.CheckBoxFor(m => m.CategoryCheckboxes[i].IsSelected)
+            <span>@Model.CategoryCheckboxes[i].Category.CategoryName</span>
+            @Html.HiddenFor(m => m.CategoryCheckboxes[i].Category.CategoryId)
+        </p>
+    }
+    <input type="submit" value="Submit Form" />
+}
+

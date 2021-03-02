@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\LuckySevens\bin\Debug\LuckySevens.exe.config
+C:\Users\repub\source\repos\LuckySevens\bin\Debug\LuckySevens.exe
+C:\Users\repub\source\repos\LuckySevens\bin\Debug\LuckySevens.pdb
+C:\Users\repub\source\repos\LuckySevens\obj\Debug\LuckySevens.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\LuckySevens\obj\Debug\LuckySevens.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\LuckySevens\obj\Debug\LuckySevens.exe
+C:\Users\repub\source\repos\LuckySevens\obj\Debug\LuckySevens.pdb

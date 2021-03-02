@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyWnBHZmKwYuOI3CPgYAHEMxvG81lDmICqwsIzi5QXz/dHUwwspMzg6nr7hguCYfjA2nChhiNwlMA1GUDDslig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\repub\\source\\repos\\SGBank.Models\\SGBank.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\repub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\repub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

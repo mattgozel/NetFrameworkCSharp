@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.exe
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.deps.json
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.runtimeconfig.json
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.runtimeconfig.dev.json
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.dll
+C:\Users\repub\source\repos\MaybeItLovesMe\bin\Debug\netcoreapp3.1\MaybeItLovesMe.pdb
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.AssemblyInfo.cs
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.dll
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.pdb
+C:\Users\repub\source\repos\MaybeItLovesMe\obj\Debug\netcoreapp3.1\MaybeItLovesMe.genruntimeconfig.cache

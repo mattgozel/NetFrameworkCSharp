@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\DriveInfo\bin\Debug\DriveInfo.exe.config
+C:\Users\repub\source\repos\DriveInfo\bin\Debug\DriveInfo.exe
+C:\Users\repub\source\repos\DriveInfo\bin\Debug\DriveInfo.pdb
+C:\Users\repub\source\repos\DriveInfo\obj\Debug\DriveInfo.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\DriveInfo\obj\Debug\DriveInfo.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\DriveInfo\obj\Debug\DriveInfo.exe
+C:\Users\repub\source\repos\DriveInfo\obj\Debug\DriveInfo.pdb

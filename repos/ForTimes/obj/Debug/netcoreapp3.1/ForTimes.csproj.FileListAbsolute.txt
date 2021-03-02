@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.exe
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.deps.json
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.runtimeconfig.json
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.runtimeconfig.dev.json
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.dll
+C:\Users\repub\source\repos\ForTimes\bin\Debug\netcoreapp3.1\ForTimes.pdb
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.AssemblyInfo.cs
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.dll
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.pdb
+C:\Users\repub\source\repos\ForTimes\obj\Debug\netcoreapp3.1\ForTimes.genruntimeconfig.cache

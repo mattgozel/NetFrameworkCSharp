@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.dll
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.pdb
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.dll
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\nunit.framework.dll
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\repub\source\repos\GuessingGame.Tests\bin\Debug\nunit.framework.xml
+C:\Users\repub\source\repos\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csproj.CopyComplete
+C:\Users\repub\source\repos\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.dll
+C:\Users\repub\source\repos\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.pdb

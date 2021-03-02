@@ -1,0 +1,6 @@
+C:\Users\repub\source\repos\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.dll
+C:\Users\repub\source\repos\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\repub\source\repos\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.dll
+C:\Users\repub\source\repos\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.pdb

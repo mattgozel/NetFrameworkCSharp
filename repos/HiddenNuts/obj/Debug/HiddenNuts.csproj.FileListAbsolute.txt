@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\HiddenNuts\bin\Debug\HiddenNuts.exe.config
+C:\Users\repub\source\repos\HiddenNuts\bin\Debug\HiddenNuts.exe
+C:\Users\repub\source\repos\HiddenNuts\bin\Debug\HiddenNuts.pdb
+C:\Users\repub\source\repos\HiddenNuts\obj\Debug\HiddenNuts.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\HiddenNuts\obj\Debug\HiddenNuts.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\HiddenNuts\obj\Debug\HiddenNuts.exe
+C:\Users\repub\source\repos\HiddenNuts\obj\Debug\HiddenNuts.pdb

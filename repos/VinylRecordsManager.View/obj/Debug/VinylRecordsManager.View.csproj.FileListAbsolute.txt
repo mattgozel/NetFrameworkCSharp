@@ -1,0 +1,9 @@
+C:\Users\repub\source\repos\VinylRecordsManager.View\bin\Debug\VinylRecordsManager.View.dll
+C:\Users\repub\source\repos\VinylRecordsManager.View\bin\Debug\VinylRecordsManager.View.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.View\bin\Debug\VinylRecordsManager.Models.dll
+C:\Users\repub\source\repos\VinylRecordsManager.View\bin\Debug\VinylRecordsManager.Models.pdb
+C:\Users\repub\source\repos\VinylRecordsManager.View\obj\Debug\VinylRecordsManager.View.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\VinylRecordsManager.View\obj\Debug\VinylRecordsManager.View.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\VinylRecordsManager.View\obj\Debug\VinylRecordsManager.View.csproj.CopyComplete
+C:\Users\repub\source\repos\VinylRecordsManager.View\obj\Debug\VinylRecordsManager.View.dll
+C:\Users\repub\source\repos\VinylRecordsManager.View\obj\Debug\VinylRecordsManager.View.pdb

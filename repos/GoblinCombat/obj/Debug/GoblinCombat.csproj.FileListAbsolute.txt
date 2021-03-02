@@ -1,0 +1,7 @@
+C:\Users\repub\source\repos\GoblinCombat\bin\Debug\GoblinCombat.exe.config
+C:\Users\repub\source\repos\GoblinCombat\bin\Debug\GoblinCombat.exe
+C:\Users\repub\source\repos\GoblinCombat\bin\Debug\GoblinCombat.pdb
+C:\Users\repub\source\repos\GoblinCombat\obj\Debug\GoblinCombat.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\GoblinCombat\obj\Debug\GoblinCombat.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\GoblinCombat\obj\Debug\GoblinCombat.exe
+C:\Users\repub\source\repos\GoblinCombat\obj\Debug\GoblinCombat.pdb

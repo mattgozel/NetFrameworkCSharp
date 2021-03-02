@@ -1,0 +1,11 @@
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\MovieCatalog.Data.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\MovieCatalog.Data.pdb
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\Dapper.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\MovieCatalog.Models.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\MovieCatalog.Models.pdb
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\bin\Debug\Dapper.xml
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\obj\Debug\MovieCatalog.Data.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\obj\Debug\MovieCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\obj\Debug\MovieCatalog.Data.csproj.CopyComplete
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\obj\Debug\MovieCatalog.Data.dll
+C:\Users\repub\source\repos\MovieCatalog\MovieCatalog.Data\obj\Debug\MovieCatalog.Data.pdb

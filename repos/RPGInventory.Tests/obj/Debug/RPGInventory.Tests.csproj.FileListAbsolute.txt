@@ -1,0 +1,12 @@
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\RPGInventory.Tests.dll
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\RPGInventory.Tests.pdb
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\nunit.framework.dll
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\RPGInvenstory.dll
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\RPGInvenstory.pdb
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\repub\source\repos\RPGInventory.Tests\bin\Debug\nunit.framework.xml
+C:\Users\repub\source\repos\RPGInventory.Tests\obj\Debug\RPGInventory.Tests.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\RPGInventory.Tests\obj\Debug\RPGInventory.Tests.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\RPGInventory.Tests\obj\Debug\RPGInventory.Tests.csproj.CopyComplete
+C:\Users\repub\source\repos\RPGInventory.Tests\obj\Debug\RPGInventory.Tests.dll
+C:\Users\repub\source\repos\RPGInventory.Tests\obj\Debug\RPGInventory.Tests.pdb

@@ -1,0 +1,13 @@
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.exe
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.deps.json
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.runtimeconfig.json
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.runtimeconfig.dev.json
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.dll
+C:\Users\repub\source\repos\ForByFor\bin\Debug\netcoreapp3.1\ForByFor.pdb
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.AssemblyInfoInputs.cache
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.AssemblyInfo.cs
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.dll
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.pdb
+C:\Users\repub\source\repos\ForByFor\obj\Debug\netcoreapp3.1\ForByFor.genruntimeconfig.cache

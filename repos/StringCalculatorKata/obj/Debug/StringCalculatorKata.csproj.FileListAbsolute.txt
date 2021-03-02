@@ -1,0 +1,6 @@
+C:\Users\repub\source\repos\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+C:\Users\repub\source\repos\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+C:\Users\repub\source\repos\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojAssemblyReference.cache
+C:\Users\repub\source\repos\StringCalculatorKata\obj\Debug\StringCalculatorKata.csproj.CoreCompileInputs.cache
+C:\Users\repub\source\repos\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+C:\Users\repub\source\repos\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
